@@ -1,4 +1,4 @@
-# Claude Base
+# Claude Development Experiments
 
 A placeholder repository for Claude-related development experiments.
 
